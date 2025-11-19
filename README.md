@@ -53,7 +53,7 @@ Three regression models were trained and evaluated:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/USERNAME/REPO-NAME.git](https://github.com/RAGHUSUKUMARAN/project_solarpowergenerated-/new/main?filename=README.md)
+   git clone (https://github.com/RAGHUSUKUMARAN/project_solarpowergenerated-/new/main?filename=README.md)
 ````
 
 2. Move into the project directory:
