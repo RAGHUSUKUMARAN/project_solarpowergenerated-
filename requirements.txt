@@ -1,4 +1,13 @@
+<<<<<<< HEAD
+streamlit
+pandas
+numpy
+catboost
+scikit-learn
+joblib
+=======
 streamlit
 catboost
 pandas
 numpy
+>>>>>>> 2882346c349d0347d69fa756a59b4da33dddd557
